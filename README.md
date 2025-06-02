@@ -33,7 +33,7 @@ Implementing Boolean functions in Verilog HDL (Hardware Description Language) in
 
 # Program:
 
-Developed by:Abirami N
+Developed by: Abirami N
 
 RegisterNumber: 212224220005
 
